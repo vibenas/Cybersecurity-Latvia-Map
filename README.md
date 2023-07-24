@@ -67,12 +67,11 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 9. KPMG Baltics, https://company.lursoft.lv/en/kpmg-baltics-sia/40003235171, http://www.kpmg.com
 10. Microsoft, https://company.lursoft.lv/en/microsoft-latvia/40003438292, http://www.microsoft.com
 11. PricewaterhouseCoopers, https://company.lursoft.lv/en/pricewaterhousecoopers-sia/40003142793, https://www.pwc.com/lv
-12. Radware, https://www.linkedin.com/in/msoukonnik/, https://www.radware.com
-13. Stallion, https://company.lursoft.lv/en/stallion/40103160742, https://www.stallion.lv/
-14. TeamSecure, ????, https://teamsecure.lv/en
-15. Tele2, https://company.lursoft.lv/en/tele2/40003272854, https://tele2.lv
-16. Latnet, 
-
+12. Proact, https://company.lursoft.lv/en/proact-it-latvia/40003420036, https://www.proact.eu/
+13. Radware, https://www.linkedin.com/in/msoukonnik/, https://www.radware.com
+14. Stallion, https://company.lursoft.lv/en/stallion/40103160742, https://www.stallion.lv/
+15. TeamSecure, ????, https://teamsecure.lv/en
+16. Tele2, https://company.lursoft.lv/en/tele2/40003272854, https://tele2.lv
 
 ## 2.	Distributors
 1. ACC Distribution, https://company.lursoft.lv/en/acc-distribution/40003286426, https://accdistribution.eu/
