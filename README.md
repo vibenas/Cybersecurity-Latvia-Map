@@ -35,6 +35,24 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 10. Squalio, https://company.lursoft.lv/en/squalio/40103280237, https://squalio.com/
 11. TestDevLab, https://company.lursoft.lv/en/testdevlab/40103486142, https://www.testdevlab.com/
 12. Tet, https://company.lursoft.lv/en/tet/40003052786, https://tet.lv
+13. Analytica, 
+14. BALTIJAS INFORMĀCIJAS TEHNOLOĢIJAS, 
+15. Cadence, 
+16. Corporate Consulting, 
+17. Data Experts (Tet), 
+18. Data Tehnoloģijas, 
+19. Datakom, 
+20. DataProtection.lv, 
+21. Dati Group, 
+22. Datu drošības aģentūra, 
+23. GK Solutions, 
+24. IT Centrs, 
+25. IT Security, 
+26. Monitoringa centrs, 
+27. Opticom, 
+28. Possiblesecurity, 
+29. PwC ITS, 
+30. We are Dots, 
 
 
 *	**Foreign ownership**
@@ -53,14 +71,20 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 13. Stallion, https://company.lursoft.lv/en/stallion/40103160742, https://www.stallion.lv/
 14. TeamSecure, ????, https://teamsecure.lv/en
 15. Tele2, https://company.lursoft.lv/en/tele2/40003272854, https://tele2.lv
+16. Latnet, 
 
 
 ## 2.	Distributors
-1. Also, https://company.lursoft.lv/en/also-latvia/40003274889, https://www.also.com/
-2. ACC Distribution, https://company.lursoft.lv/en/acc-distribution/40003286426, https://accdistribution.eu/
-3. DAN Communications, https://company.lursoft.lv/en/dan-communications/50003294251, https://www.dan.lv/en/ 
-4. headtechnology Baltics, https://company.lursoft.lv/en/headtechnology-baltics/40003898539, https://headtechnology.com/
-5. Pedab Latvia, https://company.lursoft.lv/en/pedab-latvia/40103914011, https://www.pedab.lv/
+1. ACC Distribution, https://company.lursoft.lv/en/acc-distribution/40003286426, https://accdistribution.eu/
+2. Also, https://company.lursoft.lv/en/also-latvia/40003274889, https://www.also.com/
+3. Altacom, https://company.lursoft.lv/en/altacom/40203045560, https://altacom.eu/
+4. Asbis, https://company.lursoft.lv/en/asbis-baltics/50003960321, https://www.asbis.lv/
+5. CLICO, https://www.linkedin.com/in/ugisbertulsons/, https://clico.lv/
+6. DAN Communications, https://company.lursoft.lv/en/dan-communications/50003294251, https://www.dan.lv/en/ 
+7. headtechnology Baltics, https://company.lursoft.lv/en/headtechnology-baltics/40003898539, https://headtechnology.com/
+8. Hermitage, https://company.lursoft.lv/en/hermitage-solutions/40103873796, https://www.hermitage.lt/lv/
+9. Pedab Latvia, https://company.lursoft.lv/en/pedab-latvia/40103914011, https://www.pedab.lv/
+
  
 
 ## 3.	Education & Research
