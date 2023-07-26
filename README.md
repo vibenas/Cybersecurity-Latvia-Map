@@ -91,7 +91,7 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 
 ## 4.	National Capabilities
 1. Latvian State Police, https://public-body.lursoft.lv/valsts-policija/90000099040, https://www.vp.gov.lv/en
-2. CERT.LV, ???? , https://www.cert.lv/en/
+2. CERT.LV, https://public-body.lursoft.lv/latvijas-universitates-matematikas-un-informatikas-instituts/90002111761, https://www.cert.lv/en/
 3. The Data State Inspectorate, https://public-body.lursoft.lv/datu-valsts-inspekcija/90001037264, https://www.dvi.gov.lv/
-4. National Armed Forces Cyber Defence Unit, ????, https://www.zs.mil.lv/lv/zemessardzes-vienibas/zemessardzeskiberaizsardzibas-vieniba
+4. National Armed Forces Cyber Defence Unit, https://public-body.lursoft.lv/zemessardzes-stabs/90000040549, https://www.zs.mil.lv/lv/zemessardzes-vienibas/zemessardzeskiberaizsardzibas-vieniba
 
