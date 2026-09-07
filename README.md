@@ -30,27 +30,26 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 5. Corporate Consulting, https://company.lursoft.lv/en/corporate-consulting/40103167628, https://www.csolutions.lv/en/
 6. CyAdviso, https://company.lursoft.lv/en/cyadviso/40203253216, https://cyadviso.com/
 7. Cyber Circle, https://company.lursoft.lv/en/cyber-circle/50203116691, http://www.cybercircle.eu/
-8. Data Tehnoloģijas, https://company.lursoft.lv/en/data-tehnologijas/40003443838, https://www.datatechnologies.lv/en/
-9. Datakom, https://company.lursoft.lv/en/datakom/40103142605, https://www.datakom.lv/en/
-10. DataProtection.lv, https://company.lursoft.lv/en/dataprotection-lv/44103058476, https://dataprotection.lv/
-11. Dati Group, https://company.lursoft.lv/en/dati-group/40003115371, https://www.datigroup.com/en
-12. Drošības aģentūra, https://company.lursoft.lv/en/drosibas-agentura/40003833142, ..
-13. GK Solutions, https://company.lursoft.lv/en/gk-solutions/43603047329, ???
-14. iPro, https://company.lursoft.lv/en/ipro/40003521916, https://www.ipro.lv/en
-15. IT Centrs, https://company.lursoft.lv/en/it-centrs/40003481064, https://www.itcentrs.lv/itc/en
-16. IT Security, https://company.lursoft.lv/en/it-security/42103068230, ???
-17. Latvijas Mobilais Telefons, https://company.lursoft.lv/en/latvijas-mobilais-telefons/50003050931, https://www.lmt.lv/en/main
-18. LVRTC, https://company.lursoft.lv/en/latvijas-valsts-radio-un-televizijas-centrs/40003011203, https://www.lvrtc.lv/en/
-19. Monitoringa centrs, https://company.lursoft.lv/en/monitoringa-centrs/40003924899, https://www.monitoringacentrs.lv/parmums
-20. Opticom, https://company.lursoft.lv/en/opticom/40003231409, https://www.opticom.lv/en/
-21. Santa Monica Networks, https://company.lursoft.lv/en/santa-monica-networks/40203054012, https://www.smn.lt/en/
-22. Secure Solutions Latvia, https://company.lursoft.lv/en/secure-solutions-latvia/40103688323, https://www.secure-latvia.lv/
-23. Sensora, https://company.lursoft.lv/en/sensora/40203240423, https://sensora.lv/
-24. SEQ, https://company.lursoft.lv/en/seq/40203410806, https://www.seq.lv/
-25. Squalio, https://company.lursoft.lv/en/squalio/40103280237, https://squalio.com/
-28. TestDevLab, https://company.lursoft.lv/en/testdevlab/40103486142, https://www.testdevlab.com/
-29. Tet, https://company.lursoft.lv/en/tet/40003052786, https://tet.lv
-30. We are Dots, https://company.lursoft.lv/en/we-are--/41203070247, https://www.wearedots.com/
+8. CyberAudit.lv, https://company.lursoft.lv/en/cyber-audit/40003795870, https://www.cyberaudit.lv/
+10. Data Tehnoloģijas, https://company.lursoft.lv/en/data-tehnologijas/40003443838, https://www.datatechnologies.lv/en/
+11. Datakom, https://company.lursoft.lv/en/datakom/40103142605, https://www.datakom.lv/en/
+12. DataProtection.lv, https://company.lursoft.lv/en/dataprotection-lv/44103058476, https://dataprotection.lv/
+13. Dati Group, https://company.lursoft.lv/en/dati-group/40003115371, https://www.datigroup.com/en
+14. GK Solutions, https://company.lursoft.lv/en/gk-solutions/43603047329
+15. iPro, https://company.lursoft.lv/en/ipro/40003521916, https://www.ipro.lv/en
+16. IT Centrs, https://company.lursoft.lv/en/it-centrs/40003481064, https://www.itcentrs.lv/itc/en
+17. IT Security, https://company.lursoft.lv/en/it-security/42103068230
+18. Latvijas Mobilais Telefons, https://company.lursoft.lv/en/latvijas-mobilais-telefons/50003050931, https://www.lmt.lv/en/main
+19. LVRTC, https://company.lursoft.lv/en/latvijas-valsts-radio-un-televizijas-centrs/40003011203, https://www.lvrtc.lv/en/
+20. Monitoringa centrs, https://company.lursoft.lv/en/monitoringa-centrs/40003924899, https://www.monitoringacentrs.lv/parmums
+21. Opticom, https://company.lursoft.lv/en/opticom/40003231409, https://www.opticom.lv/en/
+22. Possible Security, https://company.lursoft.lv/en/i/44103127405, https://possible.lv/ 
+23. Santa Monica Networks, https://company.lursoft.lv/en/santa-monica-networks/40203054012, https://www.smn.lt/en/
+24. Secure Solutions Latvia, https://company.lursoft.lv/en/secure-solutions-latvia/40103688323, https://www.secure-latvia.lv/
+25. Sensora, https://company.lursoft.lv/en/sensora/40203240423, https://sensora.lv/
+26. SEQ, https://company.lursoft.lv/en/seq/40203410806, https://www.seq.lv/
+27. Tet, https://company.lursoft.lv/en/tet/40003052786, https://tet.lv
+28. We are Dots, https://company.lursoft.lv/en/we-are--/41203070247, https://www.wearedots.com/
 
 
 *	**Foreign ownership**
@@ -59,7 +58,7 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 3. Bite Latvija, https://company.lursoft.lv/en/bite-latvija/40003742426, https://www.bite.lv/
 4. Cisco, https://company.lursoft.lv/en/cisco-latvia/40003881829, www.cisco.com
 5. Deloitte Latvia, https://company.lursoft.lv/en/deloitte-latvia/40003247787, https://www.deloitte.lv/
-6. Ernst & Young Baltic, https://company.lursoft.lv/en/ernst-young-baltic/40003593454, https://www.ey.com/en_lv
+6. EY Baltic, https://company.lursoft.lv/en/ernst-young-baltic/40003593454, https://www.ey.com/en_lv
 7. Fortinet, https://www.linkedin.com/in/oskarsbickovs/, https://www.fortinet.com
 8. IBM Latvija, https://company.lursoft.lv/en/ibm-latvija/40003372249, https://www.ibm.com
 9. KPMG Baltics, https://company.lursoft.lv/en/kpmg-baltics-sia/40003235171, http://www.kpmg.com
@@ -67,9 +66,10 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 11. PricewaterhouseCoopers, https://company.lursoft.lv/en/pricewaterhousecoopers-sia/40003142793, https://www.pwc.com/lv
 12. Proact, https://company.lursoft.lv/en/proact-it-latvia/40003420036, https://www.proact.eu/
 13. Radware, https://www.linkedin.com/in/msoukonnik/, https://www.radware.com
-14. Stallion, https://company.lursoft.lv/en/stallion/40103160742, https://www.stallion.lv/
-15. TeamSecure, ????, https://teamsecure.lv/en
-16. Tele2, https://company.lursoft.lv/en/tele2/40003272854, https://tele2.lv
+14. Squalio, https://company.lursoft.lv/en/squalio/40103280237, https://squalio.com/
+15. Stallion, https://company.lursoft.lv/en/stallion/40103160742, https://www.stallion.lv/
+16. TestDevLab, https://company.lursoft.lv/en/testdevlab/40103486142, https://www.testdevlab.com/ 
+17. Tele2, https://company.lursoft.lv/en/tele2/40003272854, https://tele2.lv
 
 ## 2.	Distributors
 1. ACC Distribution, https://company.lursoft.lv/en/acc-distribution/40003286426, https://accdistribution.eu/
@@ -85,13 +85,19 @@ If your organisation would like to be mentioned or you know other cybersecurity 
  
 
 ## 3.	Education & Research
-1. ISACA Latvia, https://company.lursoft.lv/en/isaca-latvijas-nodala/40008097778, https://engage.isaca.org/latviachapter/home
-2. North European Cybersecurity Cluster (NECC), https://company.lursoft.lv/en/latvijas-informacijas-un-komunikacijas-tehnologijas-asociacija/40008038242, https://necc.network/
-3. Riga Technical University, https://public-body.lursoft.lv/rigas-tehniska-universitate/90000068977, https://www.rtu.lv/en
+
+1. BSides Riga, ???, https://riga.bsides.lv/ 
+2. ISACA Latvia, https://company.lursoft.lv/en/isaca-latvijas-nodala/40008097778, https://engage.isaca.org/latviachapter/home
+3. KiberACS (Cybersecurity Academy in Latvia), ???, https://digital-skills-jobs.europa.eu/en/impact-shapers/good-practices/kiberacs-cybersecurity-academy-latvia
+4. National Defence Academy of Latvia – Cybersecurity Engineering programme, ???, https://va.lv/studijas/magistrs/kiberdrosibas-inzenierija 
+5. OWASP Riga, ???, https://owasp.org/www-chapter-riga/
+6. Riga Technical University, https://public-body.lursoft.lv/rigas-tehniska-universitate/90000068977, https://www.rtu.lv/en
+7. University of Latvia – Cybersecurity Governance master's programme, ???, https://www.lu.lv/en/studies/study-programmes-1/masters-study-programmes/cybersecurity-management-en-25-years/
+8. Women4Cyber Latvia, https://company.lursoft.lv/en/women4cyber-latvia/40008334277, https://women4cyber.eu/ 
 
 ## 4.	National Capabilities
 1. Latvian State Police, https://public-body.lursoft.lv/valsts-policija/90000099040, https://www.vp.gov.lv/en
 2. CERT.LV, https://public-body.lursoft.lv/latvijas-universitates-matematikas-un-informatikas-instituts/90002111761, https://www.cert.lv/en/
 3. The Data State Inspectorate, https://public-body.lursoft.lv/datu-valsts-inspekcija/90001037264, https://www.dvi.gov.lv/
 4. National Armed Forces Cyber Defence Unit, https://public-body.lursoft.lv/zemessardzes-stabs/90000040549, https://www.zs.mil.lv/lv/zemessardzes-vienibas/zemessardzeskiberaizsardzibas-vieniba
-
+5. National Cybersecurity Center (Latvia), ???, https://eng.lsm.lv/article/society/defense/06.09.2024-national-cybersecurity-center-is-up-and-running.a567810/ 
